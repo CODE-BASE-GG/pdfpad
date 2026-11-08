@@ -137,11 +137,13 @@ report/     Phase implementation reports
 
 ## License
 
+PDFPad is free software, licensed under the **GNU General Public License,
+version 3 or (at your option) any later version** (GPL-3.0-or-later).
+Copyright (C) 2026 Rainiel Dejito. See [`LICENSE`](LICENSE) for the full text.
+
 Third-party license texts are collected into `licenses/` in every release; the
 component summary is
 [`packaging/licenses/THIRD_PARTY_NOTICES.md`](packaging/licenses/THIRD_PARTY_NOTICES.md).
-The PDFPad application code does not currently declare a license; choose one
-before public distribution.
 
 ## Example
 

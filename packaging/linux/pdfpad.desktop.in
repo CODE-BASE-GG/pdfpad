@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PDFPad
+GenericName=PDF Converter
+Comment=Offline PDF conversion, compression, and page tools
+Exec=@EXEC@ %F
+TryExec=@EXEC@
+Icon=pdfpad
+Terminal=false
+Categories=Office;
+MimeType=application/pdf;
+Keywords=PDF;convert;compress;merge;split;rotate;markdown;images;
+StartupNotify=true
+StartupWMClass=PDFPad

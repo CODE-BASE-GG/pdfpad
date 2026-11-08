@@ -1,0 +1,6 @@
+pypdf==6.21.1
+pypdfium2==5.15.0
+Pillow==13.0.0
+pikepdf==9.11.0
+pdfminer.six==20260107
+PySide6-Essentials==6.12.0
